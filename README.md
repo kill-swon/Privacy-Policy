@@ -1,4 +1,4 @@
-# Privacy-Policy
+# Privacy Policy
 
 By using our app, you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
 
